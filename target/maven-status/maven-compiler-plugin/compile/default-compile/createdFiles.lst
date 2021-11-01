@@ -1,0 +1,8 @@
+ru/folder/filters/AuthFilter.class
+ru/folder/dao/UsersDao.class
+ru/folder/models/User.class
+ru/folder/dao/CrudDao.class
+ru/folder/dao/UsersDaoImpl.class
+ru/folder/dao/UsersDaoJdbcTemplateImpl.class
+ru/folder/models/Car.class
+ru/folder/servlets/SignUpServlet.class
